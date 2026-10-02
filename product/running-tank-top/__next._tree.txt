@@ -1,0 +1,7 @@
+:HL["/trace/_next/static/chunks/27b8mwrptzvpe.css","style"]
+:HL["/trace/_next/static/media/1ccf8ef962b3f693.p.0gwn7w9k-i020.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/trace/_next/static/media/374a88ea0960b3d4.p.2fz20jxmyia8o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/trace/_next/static/media/638f182e7ded7477.p.1yexyk_f9-p2r.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/trace/_next/static/media/dc0c65e819e3bb6c.p.1d4mg4yt567i3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/trace/_next/static/media/fed68dff3ca987ed.p.3e08ior5wrhci.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"product","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"running-tank-top","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Wsg7zHhyrbhlIFsXyO9aT"}
